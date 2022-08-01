@@ -1,0 +1,10 @@
+* {
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  text-align: center;
+}
